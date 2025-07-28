@@ -98,7 +98,7 @@ Completed multiple frontend and backend tasks:
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/abhijith-suresh-199506279)
+- [LinkedIn](https://www.linkedin.com/in/abhijith-suresh-199506279)
 - [GitHub](https://github.com/Abhijith-suresh23445)
 
 ---
