@@ -7,12 +7,6 @@
 </p>
 
 
-# 👋 Hey, I'm Abhijith!
-
-🎯 Cloud | Python | Linux | DevOps | AWS  
-📍 Technical Support Engineer | Aspiring Cloud/DevOps Engineer  
-🌱 Currently learning: Terraform, GitHub Actions, CI/CD  
-
 ---
 
 ## 🧰 Tech Stack
