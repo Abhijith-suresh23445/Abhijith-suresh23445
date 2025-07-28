@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6f61,100:db2777&height=200&section=header&text=Hey,%20I'm%20Abhijith!&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Cloud%20|%20Linux%20|%20DevOps%20|%20AWS&descAlign=50&descSize=20" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FBBF24&center=true&width=450&lines=Tech+Support+Engineer+%7C+Cloud+Learner;Python%2C+Linux%2C+AWS%2C+DevOps+Focused;Always+building+on+weekends+%F0%9F%8E%93" />
+</p>
+
+
 # 👋 Hey, I'm Abhijith!
 
 🎯 Cloud | Python | Linux | DevOps | AWS  
