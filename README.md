@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FBBF24&center=true&width=450&lines=Tech+Support+Engineer+%7C+Cloud+Learner;Python%2C+Linux%2C+AWS%2C+DevOps+Focused;Always+building+on+weekends+%F0%9F%8E%93" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FBBF24&center=true&width=450&lines=Tech+Support+Engineer+%7C+Cloud+Learner;Python%2C+Linux%2C+AWS%2C+DevOps+Focused;Always+building+and+Learning%F0%9F%8E%93" />
 </p>
 
 
